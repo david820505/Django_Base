@@ -2,7 +2,7 @@
 # Installation
 
 //Clone project from github
-$ git clone https://github.com/tso2381637/cs540_project.git
+$ git clone https://github.com/david820505/Django_Base.git
 
 // install packages
 $ pip install -r requirements.txt
