@@ -17,8 +17,8 @@ $ python manage.py runserver 0.0.0.0:8000
 Start controller: views
 
 ## Main: home
-Controller: python file.
-Model: DB file.
-Static: css/ js/ image
-Templates: html
+  - Controller: python file.
+  - Model: DB file.
+  - Static: css/ js/ image
+  - Templates: html
 
